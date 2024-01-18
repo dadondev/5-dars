@@ -1,4 +1,4 @@
-import Site from "./Site";
+import Site from "./site";
 
 function App() {
   return <Site />;
