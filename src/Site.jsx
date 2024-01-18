@@ -1,5 +1,5 @@
 import { useState } from "react";
-import "./app.css";
+import "./App.css";
 
 const btns = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0, "c"];
 const phone = [];
